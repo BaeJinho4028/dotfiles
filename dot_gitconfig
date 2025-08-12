@@ -1,0 +1,9 @@
+[user]
+	name = Baejinho4028
+	email = onionring4028@naver.com
+[fetch]
+	prune = true
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main

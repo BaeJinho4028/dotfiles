@@ -1,0 +1,38 @@
+# ===== 민감한 정보 =====
+.aws/
+.ssh/
+.gem/
+.netrc
+.mysql_history
+.rediscli_history
+
+# ===== 개인 히스토리 & 세션 =====
+.zsh_history
+.zsh_sessions/
+.bash_history
+
+# ===== 캐시 & 로그 =====
+.cache/
+.DS_Store
+.Trash/
+*.log
+*.swp
+*.swo
+
+# ===== 가상환경 & 빌드 =====
+.conda/
+.local/
+node_modules/
+venv/
+__pycache__/
+
+# ===== IDE / 에디터 설정 =====
+.idea/
+.vscode/
+eclipse-workspace/
+*.iml
+
+# ===== 사용하지 않는 임시 파일 =====
+.DS_Store
+Thumbs.db
+
