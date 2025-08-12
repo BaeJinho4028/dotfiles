@@ -33,6 +33,5 @@ eclipse-workspace/
 *.iml
 
 # ===== 사용하지 않는 임시 파일 =====
-.DS_Store
 Thumbs.db
-
+.zshrc.pre-oh-my-zsh
